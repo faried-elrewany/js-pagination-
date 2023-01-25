@@ -1,6 +1,6 @@
 # js pagination
 
-##Responsive JavaScript pagination 
+## Responsive JavaScript pagination 
 
 [Live Demo](https://js-pagination-faried-elrewany.netlify.app/)
 ---
